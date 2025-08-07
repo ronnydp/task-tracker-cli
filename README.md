@@ -21,7 +21,7 @@ Una aplicación de línea de comandos para gestionar tus tareas de forma simple,
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/[tu_usuario]/task-tracker-cli.git
+git clone https://github.com/ronnydp/task-tracker-cli.git
 cd task-tracker-cli
 ```
 
